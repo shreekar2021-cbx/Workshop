@@ -1,0 +1,10 @@
+{
+  "name": "echo-workspace",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix voice-note start",
+    "dev": "npm --prefix voice-note run dev",
+    "test": "npm --prefix voice-note test",
+    "build": "npm --prefix voice-note run build"
+  }
+}
