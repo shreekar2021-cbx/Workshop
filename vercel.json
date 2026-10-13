@@ -1,0 +1,8 @@
+{
+  "outputDirectory": "voice-note/public",
+  "rewrites": [
+    { "source": "/notebook", "destination": "/index.html" },
+    { "source": "/notebook/", "destination": "/index.html" },
+    { "source": "/notebook.html", "destination": "/index.html" }
+  ]
+}
